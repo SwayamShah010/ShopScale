@@ -1,0 +1,6 @@
+{
+  "name": "ShopScale - Local Business Expansion & Territory Intelligence",
+  "description": "Smart retail territory scouting, foot traffic analytics, competitor white-space detection, and AI expansion roadmaps for local shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
